@@ -1,0 +1,29 @@
+[{
+        "name": "Point Of Sales Web",
+        "desc": "Building a Point of Sale Website Application with PHP framework Laravel as the backend, utilizing Inertia.js and Vue.js for the frontend.",
+        "image": "Freelance",
+        "category": "web",
+        "links": {
+            "view": ""
+        }
+    },
+    {
+        "name": "Schoool Web",
+        "desc": "Building a School Website with Laravel, Vue.js, and Bootstrap 5",
+        "image": "SEKOLAH",
+        "category": "basicweb",
+        "links": {
+            "view": ""
+        }
+    },
+    {
+        "name": "DSS Application Web",
+        "desc": "Developing a decision support system application for policy-making at PT. Halus Ciptanadi, using HTML, Boostrap CSS, JavaScript, and PHP Native",
+        "image": "DSS",
+        "category": "basicweb",
+        "links": {
+            "view": "https://aplikasialusciptanadi.tigaharmoni.com/LandingPages/"
+        }
+    }
+
+]
